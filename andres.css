@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+.carrusel-items{
+    display: flex;
+
+}
+
+.carrusel-items{
+min-height: 300PX;
+max-width: 300px;
+height: 100px;
+
+
+}
+.carrusel-items img {
+    width: 400px;
+    height: 350px;
+    object-fit:fill;
+}
